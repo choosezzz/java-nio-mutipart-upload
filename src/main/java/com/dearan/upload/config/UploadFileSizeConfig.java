@@ -1,4 +1,4 @@
-package com.tal.upload.config;
+package com.dearan.upload.config;
 
 import org.springframework.boot.web.servlet.MultipartConfigFactory;
 import org.springframework.context.annotation.Bean;

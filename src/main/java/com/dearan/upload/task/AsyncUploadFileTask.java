@@ -1,10 +1,10 @@
-package com.tal.upload.task;
+package com.dearan.upload.task;
 
 import Listener.ProgressListener;
 import client.OSSClient;
-import com.tal.upload.config.OssConfig;
-import com.tal.upload.model.PartModel;
-import com.tal.upload.service.OssService;
+import com.dearan.upload.model.PartModel;
+import com.dearan.upload.config.OssConfig;
+import com.dearan.upload.service.OssService;
 import model.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

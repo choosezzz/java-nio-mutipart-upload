@@ -1,4 +1,4 @@
-package com.tal.upload;
+package com.dearan.upload;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

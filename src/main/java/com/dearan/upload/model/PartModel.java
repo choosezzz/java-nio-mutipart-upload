@@ -1,4 +1,4 @@
-package com.tal.upload.model;
+package com.dearan.upload.model;
 
 /**
  * @Author: dingshuangen

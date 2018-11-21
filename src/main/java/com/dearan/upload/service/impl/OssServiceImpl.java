@@ -1,12 +1,12 @@
-package com.tal.upload.service.impl;
+package com.dearan.upload.service.impl;
 
 import Listener.ProgressListener;
 import client.OSSClient;
 import com.alibaba.fastjson.JSON;
-import com.tal.upload.model.PartModel;
-import com.tal.upload.model.UploadModel;
-import com.tal.upload.redis.UploadRedisService;
-import com.tal.upload.service.OssService;
+import com.dearan.upload.model.PartModel;
+import com.dearan.upload.model.UploadModel;
+import com.dearan.upload.redis.UploadRedisService;
+import com.dearan.upload.service.OssService;
 import lombok.extern.log4j.Log4j2;
 import model.CompleteMultipartUploadResult;
 import model.PartETag;

@@ -1,8 +1,8 @@
-package com.tal.upload.service;
+package com.dearan.upload.service;
 
 import client.OSSClient;
-import com.tal.upload.model.PartModel;
-import com.tal.upload.model.UploadModel;
+import com.dearan.upload.model.PartModel;
+import com.dearan.upload.model.UploadModel;
 
 /**
  * @Author: dingshuangen

@@ -1,8 +1,8 @@
-package com.tal.upload.web.controller;
+package com.dearan.upload.web.controller;
 
 import com.alibaba.fastjson.JSON;
-import com.tal.upload.service.FileUploadService;
-import com.tal.upload.web.param.FilePartParam;
+import com.dearan.upload.service.FileUploadService;
+import com.dearan.upload.web.param.FilePartParam;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

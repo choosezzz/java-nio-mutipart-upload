@@ -1,4 +1,4 @@
-package com.tal.upload.web.param;
+package com.dearan.upload.web.param;
 
 import com.alibaba.fastjson.annotation.JSONField;
 import com.fasterxml.jackson.annotation.JsonInclude;

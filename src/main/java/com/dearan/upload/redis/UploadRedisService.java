@@ -1,4 +1,4 @@
-package com.tal.upload.redis;
+package com.dearan.upload.redis;
 
 import com.tal.axer.middleware.redis.RedisClientTemplate;
 import lombok.extern.log4j.Log4j2;
